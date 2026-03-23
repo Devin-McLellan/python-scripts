@@ -36,3 +36,4 @@ while not game_over:
     if lives == 0:
         print(f"Game over! Ordet var '{chosen_word}'")
         game_over = True
+        
